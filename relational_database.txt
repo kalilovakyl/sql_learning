@@ -1,0 +1,16 @@
+url to the sourse = "https://www.ibm.com/think/topics/relational-databases"
+
+relational database stores data in table
+table consists of rows and columns 
+data in table is related to each other
+
+RDBMS is a software in which relational databases exist
+
+SQL is a language for interacting with RDBMS
+allowing to add update delete rows of data easily
+
+Relational Database system model was created because:
+Existing database system was difficult 
+It was often proprietary to a particular application
+
+
